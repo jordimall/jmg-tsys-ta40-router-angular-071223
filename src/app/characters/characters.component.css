@@ -2,6 +2,10 @@
 width: 23vw;
 }
 
+.h-32vh{
+  height: 32vh;
+}
+
 .h-13vh {
   height: 13vh !important;
 }
